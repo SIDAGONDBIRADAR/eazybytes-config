@@ -2,7 +2,7 @@ build:
   version: "2.0"
 
 accounts:
-  message: "Welcome to EazyBank accounts related QA APIs "
+  message: "Welcome to EazyBank accounts related QA Env APIs "
   contactDetails:
     name: "Light Yagami - QA Lead"
     email: "yagami@eazybank.com"
